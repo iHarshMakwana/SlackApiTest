@@ -6,3 +6,8 @@
 4. Edit a previously sent message
 5. Delete a message
 6. All tasks tested in a Slack Developer Sandbox workspace
+
+
+## How to Run
+1. Clone the repository
+2. Install dependencies: npm install @slack/web-api dotenv
